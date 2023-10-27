@@ -1,0 +1,19 @@
+{
+  "name": "node-review",
+  "version": "1.0.0",
+  "description": "Reloj Inteligente Avanzado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcetmr/Node-Review.git"
+  },
+  "author": "Marcela Martínez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcetmr/Node-Review/issues"
+  },
+  "homepage": "https://github.com/Marcetmr/Node-Review#readme"
+}
